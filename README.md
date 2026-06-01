@@ -1,4 +1,4 @@
-# CheckIt Bank for Introduction to Geometry and Probability
+# CheckIt Bank for Intro to Geometry and Probability
 
 ## Purpose
 
