@@ -1,8 +1,8 @@
-# CheckIt Bank for Number Systems and Operations
+# CheckIt Bank for Introduction to Geometry and Probability
 
 ## Purpose
 
-This repo is for MAT 106 - Number Systems and Operations at SUNY Oswego. It uses both the CheckIt system for online practice and a personal python-based script for local LaTeX generation.
+This repo is for MAT 206 - Introduction to Geometry and Probability at SUNY Oswego. It uses both the CheckIt system for online practice and a personal python-based script for local LaTeX generation.
 
 ## Warning
 
@@ -10,7 +10,7 @@ The file structure of this project is different from your typical CheckIt bank, 
 
 ## To-Dos
 
-TODO: Edit G1 JSON to get the first 20 problems aligned properly.
+
 
 ## Setup for Collaborators (Local Setup)
 
