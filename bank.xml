@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bank xmlns="https://checkit.clontz.org" version="0.2">
+    <title>MAT 206 - Introduction to Geometry and Probability - CheckIt Bank</title>
+    <slug>mat-206-bank</slug>
+    <url>https://jslyemath.github.io/mat-206-checkit</url>
+
+    <color_map>
+        <category prefix="G" color="Blue" />
+        <category prefix="M" color="Green" />
+        <category prefix="A" color="Purple" />
+        <category prefix="S" color="Orange" />
+    </color_map>
+
+    <outcomes>        
+        <outcome>
+            <title>Symmetry in 2D Figures</title>
+            <slug>G1</slug>
+            <path>outcomes/G1</path>
+            <description>
+                I can, given a 2D figure, identify any lines of symmetry and point symmetry, as well as calculate angles of rotational symmetry.
+            </description>
+        </outcome>
+        
+        <outcome>
+            <title>Categorizing Polygons</title>
+            <slug>G2</slug>
+            <path>outcomes/G2</path>
+            <description>
+                I can identify members of one set of polygons as sometimes, always, or never belonging to another set of polygons.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Explaining Polygon Relationships</title>
+            <slug>G2-E</slug>
+            <path>outcomes/G2-E</path>
+            <description>
+                I can explain why members of one set of polygons sometimes, always, or never belong to another set of polygons.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Identifying Angles</title>
+            <slug>G3</slug>
+            <path>outcomes/G3</path>
+            <description>
+                I can identify pairs of angles as alternate interior, alternate exterior, corresponding, vertical, supplementary, and/or complementary.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Explaining with Special Angles</title>
+            <slug>G4</slug>
+            <path>outcomes/G4</path>
+            <description>
+                I can use the properties of 2D figures to find missing angles, and use angle measures to draw conclusions about 2D figures.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Properties of 3D Space</title>
+            <slug>G5</slug>
+            <path>outcomes/G5</path>
+            <description>
+                I can identify and apply properties of lines, planes, and polyhedra in 3D space.
+            </description>
+        </outcome>
+ 
+        <outcome>
+            <title>Justifying Spatial Relationships</title>
+            <slug>G5-E</slug>
+            <path>outcomes/G5-E</path>
+            <description>
+                I can use geometric properties and definitions to justify spatial relationships between lines, planes, and solids.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Nets of 3D Figures</title>
+            <slug>G6</slug>
+            <path>outcomes/G6</path>
+            <description>
+                I can draw accurate nets of 3D figures.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Pythagorean Theorem and Similar Triangles</title>
+            <slug>G7</slug>
+            <path>outcomes/G7</path>
+            <description>
+                I can solve problems involving triangles by using the Pythagorean theorem and/or properties of similar triangles.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Geometric Transformations</title>
+            <slug>G8</slug>
+            <path>outcomes/G8</path>
+            <description>
+                I can identify and perform transformations such as rotations, dilations, reflections, or translations.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Measuring Angles and Lengths</title>
+            <slug>M1</slug>
+            <path>outcomes/M1</path>
+            <description>
+                I can measure angles and lengths with a protractor and ruler, and identify angles as acute, obtuse, right, or straight.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Unit Conversions</title>
+            <slug>M2</slug>
+            <path>outcomes/M2</path>
+            <description>
+                I can convert from one unit to another, and apply these conversions to solve problems.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Perimeter and Circumference</title>
+            <slug>M3</slug>
+            <path>outcomes/M3</path>
+            <description>
+                I can compute perimeters and circumferences of 2D figures.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Areas of 2D Shapes</title>
+            <slug>M4</slug>
+            <path>outcomes/M4</path>
+            <description>
+                I can compute the areas of polygons, circles, sectors, and composite shapes.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Explaining Area Formulas</title>
+            <slug>M4-E</slug>
+            <path>outcomes/M4-E</path>
+            <description>
+                I can explain the meaning of area and explain why the area formulas for parallelograms, triangles, kites, and trapezoids work.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Surface Areas of 3D Figures</title>
+            <slug>M5</slug>
+            <path>outcomes/M5</path>
+            <description>
+                I can compute the surface area of prisms, pyramids, spheres, cylinders, cones and composite figures.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Volumes of 3D Figures</title>
+            <slug>M6</slug>
+            <path>outcomes/M6</path>
+            <description>
+                I can compute the volume of prisms, pyramids, spheres, cylinders, cones, and composite figures.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Explaining Volume and Surface Area Formulas</title>
+            <slug>M6-E</slug>
+            <path>outcomes/M6-E</path>
+            <description>
+                I can explain the meaning of volume and explain why the volume and/or surface area formulas for prisms, pyramids, and cylinders work.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Arithmetic and Geometric Sequences</title>
+            <slug>A1</slug>
+            <path>outcomes/A1</path>
+            <description>
+                I can identify sequences as arithmetic or geometric, and construct functions which output their nth term.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Writing Algebraic Expressions and Equations</title>
+            <slug>A2</slug>
+            <path>outcomes/A2</path>
+            <description>
+                I can write algebraic expressions and equations based on written descriptions.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Explaining Properties of Equality</title>
+            <slug>A2-E</slug>
+            <path>outcomes/A2-E</path>
+            <description>
+                I can explain the properties of equality, the common misconceptions about equality, and how to address those misconceptions.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Identifying Functions</title>
+            <slug>A3</slug>
+            <path>outcomes/A3</path>
+            <description>
+                I can identify relations as functions.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Explaining Functions</title>
+            <slug>A3-E</slug>
+            <path>outcomes/A3-E</path>
+            <description>
+                I can explain why a relation is or is not a function based on the definition of a function.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Linear Equations and Graphing</title>
+            <slug>A4</slug>
+            <path>outcomes/A4</path>
+            <description>
+                I can use graphical information to determine the equation of a line, and graph a line given its equation.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Explaining Slope and Linearity</title>
+            <slug>A4-E</slug>
+            <path>outcomes/A4-E</path>
+            <description>
+                I can explain the concept of slope and justify why a written scenario does or does not represent a linear equation.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Writing Equations of Lines</title>
+            <slug>A5</slug>
+            <path>outcomes/A5</path>
+            <description>
+                I can use information about the points and slope of a line in order to write its equation.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Systems of Linear Equations</title>
+            <slug>A6</slug>
+            <path>outcomes/A6</path>
+            <description>
+                I can write and solve systems of linear equations.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Distance and Midpoint Formulas</title>
+            <slug>A7</slug>
+            <path>outcomes/A7</path>
+            <description>
+                I can use ordered pairs to calculate the length and midpoint of a line segment, and use this information to draw conclusions about 2D figures.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Simple and Compound Probability</title>
+            <slug>S1</slug>
+            <path>outcomes/S1</path>
+            <description>
+                I can compute probabilities of simple and compound experiments.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Data Displays and Statistical Graphs</title>
+            <slug>S2</slug>
+            <path>outcomes/S2</path>
+            <description>
+                I can read and create box plots, histograms, bar graphs, pie charts, stem-and-leaf plots, dot plots, and line plots to display data.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Measures of Central Tendency and Variation</title>
+            <slug>S3</slug>
+            <path>outcomes/S3</path>
+            <description>
+                I can compute measures of central tendency and measures of variation of a data set, and interpret their meaning.
+            </description>
+        </outcome>
+    </outcomes>
+</bank>
